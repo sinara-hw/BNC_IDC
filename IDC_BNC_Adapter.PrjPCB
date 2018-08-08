@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IDC_BNC_Adapter
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -78,7 +78,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QJSXJYVY
 
 [Document5]
 DocumentPath=Panel\Panel_IDC_BNC_Adapter.OutJob
@@ -121,6 +121,18 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IDC_BNC_Adapter\Panel\ExportIDF\PANEL_IDC_BNC_Adapter.brd
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for IDC_BNC_Adapter\Panel\AutoCAD PCB\PANEL_IDC_BNC_Adapter.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for IDC_BNC_Adapter\Panel\ExportSTEP\PANEL_IDC_BNC_Adapter.step
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -143,7 +155,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IDC_BNC_Adapter
 
 [OutputGroup1]
 Name=Netlist Outputs
